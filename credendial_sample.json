@@ -1,0 +1,14 @@
+[
+    {
+        "name": "atual",
+        "server": "svn://...",
+        "login": "user",
+        "senha": "password"
+    },
+    {
+        "name": "antigo",
+        "server": "svn://...",
+        "login": "user",
+        "senha": "password"
+    }
+]
